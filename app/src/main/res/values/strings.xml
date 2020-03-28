@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom ListView</string>
+    <string name="todo">TODO?</string>
+    <string name="this_is_title_field">Title</string>
+    <string name="author">Author</string>
+    <string name="title">Title</string>
+    <string name="description">This is Fuckin des</string>
+</resources>
